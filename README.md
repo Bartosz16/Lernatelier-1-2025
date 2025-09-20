@@ -12,7 +12,7 @@ Bei den Noten weis ich noch nicht so viel. Bei den Modulen bin ich gut dabei.
 ### Veränderungen
 no nichts.
 
-### Projekte / neue Technologien
+### Projekte / neue Technologiens
 Eine eigen Minecraft Mod. 
 
 ### Generelle Ziele
