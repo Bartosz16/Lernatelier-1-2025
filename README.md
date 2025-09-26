@@ -23,3 +23,9 @@ Bin immer noch am Lernen bin jetzt bei den Classes & Objects angekommen.
 
 ### Planung für den 26.09.2025 
 Wenn ich es schaffe dann mit Java abzuschliessen wen nicht dann so weit komme wie möglich.
+
+### 26.09.2025
+Bin weiter gekommen und habe über Classes & Objects und Access Modifiers gelernt aber die sind schwierig.
+
+### Nach den Herbstferien 
+Einfach weiter machen aber zuerst eine Repetition machen 
