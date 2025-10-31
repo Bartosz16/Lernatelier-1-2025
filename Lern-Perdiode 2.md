@@ -24,3 +24,9 @@ In Muddel bin ich gut voran gekommen. Ich habe 4 Aufgaben fertig gemacht
 
 ### Für den 31.10.2025
 Kurtz wiederholen was ich vor den Ferien in Java gemacht habe und dann weiter machen.
+
+### 31.10.2025
+Heute habe ich weiter Java gelernt wie Interfaces & Abstract Classes die ich glaube ich verstanden habe
+
+### 07.11.2025 
+Die Sachen Repetieren und dann weiter machen 
