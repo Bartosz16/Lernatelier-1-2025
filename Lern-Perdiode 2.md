@@ -30,3 +30,9 @@ Heute habe ich weiter Java gelernt wie Interfaces & Abstract Classes die ich gla
 
 ### 07.11.2025 
 Die Sachen Repetieren und dann weiter machen 
+
+### 07.11.2025 - 19.12.2025
+ich habe jetzt angefangen mit dem Minecraft mod zu lernen wie man neuen Blöcke hinzufügt und so weiter 
+
+### Nach den Ferien 
+Mach ich einfach weiter mit dem Lernen
