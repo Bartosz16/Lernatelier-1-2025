@@ -36,3 +36,11 @@ ich habe jetzt angefangen mit dem Minecraft mod zu lernen wie man neuen Blöcke 
 
 ### Nach den Ferien 
 Mach ich einfach weiter mit dem Lernen
+
+
+### Nach den Ferien bis 13.03.2026
+
+Ich habe jetzt Angefangen wie man in Minecraft eine Mod macht und auch Sachen hinzufügt.
+
+### Am 20.03.2026 
+Mach ich weiter mit dem Tutorial um weiter zu lernen
