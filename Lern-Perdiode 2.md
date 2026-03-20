@@ -44,3 +44,10 @@ Ich habe jetzt Angefangen wie man in Minecraft eine Mod macht und auch Sachen hi
 
 ### Am 20.03.2026 
 Mach ich weiter mit dem Tutorial um weiter zu lernen
+
+### 20.03.2026 
+Heute habe ich etwas neues ausprobiert. Ich habe mich mal mit Linux beschäftigt mit den Infos von HTB (Hack the Box).
+Ich habe mal die ersten sache gelernt wie man Linux benutzt mit commands. 
+
+### Am 27.03.2026 
+Ich glaube ich mache weiter in HTB oder mit Java, oder ich mache einen Mix draus
