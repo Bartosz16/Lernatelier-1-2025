@@ -51,3 +51,12 @@ Ich habe mal die ersten sache gelernt wie man Linux benutzt mit commands.
 
 ### Am 27.03.2026 
 Ich glaube ich mache weiter in HTB oder mit Java, oder ich mache einen Mix draus
+
+
+### 08.05.2026
+In Minecraft die 3D modelle eingefügt und gemacht das wenn man es benutzt das die Position sich ändert(noch nicht ganz fertig)
+
+### Für den 22.05.2026
+Sicher die Position richtug zu stellen so das es auch gut aussieht. 
+Partikels hinzufügen das es besser aussieht.
+Die Carfting hinzuzufügen so das man auch das Item craften kann. 
