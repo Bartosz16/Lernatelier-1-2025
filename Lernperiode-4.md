@@ -15,3 +15,11 @@ Ich habe heute alles geschafft was ich mir als Ziel genommen habe.
 
 ### Für den 29.05.2026 
 Möchte ich weiter am Tutorial arbeiten und mindestens 2 Neue Sachen lernen.
+
+### 29.05.2026 Bis 05.06.2026
+Ich habe an Java weiter gearbeitet und auch bei meinem Powershell Projekt 
+
+### Für den 12.06.2026 
+Weis ich noch nicht ob ich an Java weier mache oder Powershell weil mit gerad Powershell irgendwie spass macht 
+
+
