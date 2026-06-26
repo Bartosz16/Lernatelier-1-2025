@@ -29,9 +29,9 @@ Ich habe mit Leonardo ein neus Projekt angefangen. Das Projekt ist einen Plan zu
 Oder an dem Projekt weiter arbeiten oder PowerShell weil ich nicht weis ob ich es schaffe in den Lektionen
 
 ### 19.06.2026
-Ich habe an meinen PowerShell Projekt gearbeitet da ich es noch Fertig machen musste.
+Ich habe an meinen PowerShell Projekt gearbeitet da ich es noch fertig machen muss.
 
 ### Für den 26.06.2026 
-Witer an dem Projekt mit Leonardo arbeiten 
+Weiter an dem Projekt mit Leonardo arbeiten 
 
 
