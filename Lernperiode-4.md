@@ -34,4 +34,6 @@ Ich habe an meinen PowerShell Projekt gearbeitet da ich es noch fertig machen mu
 ### Für den 26.06.2026 
 Weiter an dem Projekt mit Leonardo arbeiten 
 
-
+### 26.06.2026
+Fertig mit der Lernperiode 4.
+Heute habe ich mit Leonardo an userem Projekt weiter gearbeitet und habe sehr viel Resachiert
