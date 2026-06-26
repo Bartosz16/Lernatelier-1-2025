@@ -22,4 +22,16 @@ Ich habe an Java weiter gearbeitet und auch bei meinem Powershell Projekt
 ### Für den 12.06.2026 
 Weis ich noch nicht ob ich an Java weier mache oder Powershell weil mit gerad Powershell irgendwie spass macht 
 
+### 12.06.2026 
+Ich habe mit Leonardo ein neus Projekt angefangen. Das Projekt ist einen Plan zu machen wann wir Prüfungen haben oder Hausaufgaben 
+
+### Für den 19.06.2026
+Oder an dem Projekt weiter arbeiten oder PowerShell weil ich nicht weis ob ich es schaffe in den Lektionen
+
+### 19.06.2026
+Ich habe an meinen PowerShell Projekt gearbeitet da ich es noch Fertig machen musste.
+
+### Für den 26.06.2026 
+Witer an dem Projekt mit Leonardo arbeiten 
+
 
