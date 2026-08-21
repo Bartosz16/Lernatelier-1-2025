@@ -37,13 +37,15 @@ Ich habe auch angefangen mit Python zu lernen und habe ein paar Sachen gelernt
 
 
 ### Planung 21.08.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [X] Mit C++ anfange 
+- [X] In C++ Nummer 1 Fertig machen 
+- [X] In C++ Nummer 1.1 Fertig machen 
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich mit C++ angefangen. Ich konnte schon einige Dinge über die Sprache, maschinelles Lernen usw. lernen. 
+
+Für das nächste Mal möchte ich weitermachen und versuchen, 1.3 fertigzustellen und mit 1.4 zu beginnen.  
+
 
 
 ### Planung 28.08.2026
