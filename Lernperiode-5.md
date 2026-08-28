@@ -4,7 +4,7 @@
 - Zeitraum: 14.08.2026 bis 29.09.2026
 
 ## Grob-Planung
-In dieser Lern-Periode möchte ich neune Sprachen lerne wie Python oder C++
+
 
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
@@ -16,7 +16,7 @@ Das ich sicher ein Projekt schaffe und nicht es über mehrere Perioden ziehe.
 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
-Python.
+In dieser Lern-Periode möchte ich neune Sprachen lerne wie Python oder C++.
 
 ### Generelle Ziele
 > Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
