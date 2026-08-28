@@ -4,6 +4,7 @@
 - Zeitraum: 14.08.2026 bis 29.09.2026
 
 ## Grob-Planung
+In dieser Lern-Periode möchte ich neune Sprachen lerne wie Python oder C++
 
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
@@ -49,13 +50,14 @@ Für das nächste Mal möchte ich weitermachen und versuchen, 1.3 fertigzustelle
 
 
 ### Planung 28.08.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [X] Die Nummer 1.3 Fertig zu machen     
+  - [X] Über Floating-point zu lernen 
+  - [X] Über Operators zu lernen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich weiter an C++ gearbeitet und gelernt, wie Floating-Point- und Operator-Funktionen in C++ ausgeführt werden. 
+
+Für das nächste Mal möchte ich entweder an Cybersecurity arbeiten oder weiter an C++.
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
