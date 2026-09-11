@@ -60,22 +60,24 @@ Heute habe ich weiter an C++ gearbeitet und gelernt, wie Floating-Point- und Ope
 Für das nächste Mal möchte ich entweder an Cybersecurity arbeiten oder weiter an C++.
 
 ### Planung 04.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [X] Mich Anmelden können 
+- [X] Die cookies speichern
+- [ ] In ein Modul gehen  
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich mit dem Moodle Downloader in Python angefangen. Ich habe es geschafft, mich einzuloggen und die Cookies zu erhalten. Ich bin aber nicht fertig geworden, was das Einloggen in ein Modul betrifft.
+
+Für das nächste Mal möchte ich sicherstellen, dass ich in ein Modul gehen und mich dort einschreiben kann.
 
 ### Planung 11.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [X] In ein Modul gehen 
+- [X] Einschreiben
+- [ ] Die links für die Handlungsziele bekommen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich an meinem Moodle-Downloader weitergemacht. Ich habe es geschafft, in ein Modul hineinzukommen und mich bei Bedarf auch einzuschreiben. 
+
+Für das nächste Mal möchte ich die Links zu den Handlungszielen erhalten, damit ich auch Ordner erstellen und die Download-Links hinzufügen kann.
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
