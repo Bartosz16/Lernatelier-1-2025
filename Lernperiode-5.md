@@ -82,20 +82,24 @@ Für das nächste Mal möchte ich die Links zu den Handlungszielen erhalten, dam
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [X] Die Namen von den Handlungszielen 
+- [X] Die Links zum Herunterladen 
+- [ ] Herunterladen
 
-(Heute habe ich... (50-100 Wörter))
+heute habe ich es geschaft das ich die Namen von den Hnadlungszielen bekomme und die dazu gehörene Downloads Links 
+
+Für das nächste mal möchte ich das ich Die daten herunterladen kann und sortieren 
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [X] Daten Herunterladen 
+- [X] Sortieren 
+- [ ] So mache das wenn man einen Feheler macht, das Program auch zeigt was der Fehler ist 
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich es geschaft das ich die Daten Herunterladen kann und auch richtig sortieren.
+
+Ich habe auch angefangen damit das wenn man etwas flasch macht das Programm auch den richtigen Fehler schickt 
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich mir anfangs zu viel vorgenommen, mich dann aber auf ein Ziel fokussiert, nämlich den Moodle-Downloader mit einer UI zu erstellen. Das hat mir nicht nur geholfen, zu verstehen, wie man eine UI erstellt, sondern auch, wie Python funktioniert. Auch nach den Herbstferien möchte ich am Moodle Downloader weiterarbeiten, um auch Sachen von Moodle 5 herunterladen zu können.
