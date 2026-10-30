@@ -29,7 +29,7 @@ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark;
 in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 -->
 
-Mit den Noten bin ich bis jetzt sehr zuf
+Mit den Noten bin ich bis jetzt sehr zufrieden 
 
 ### Veränderungen
 <!--
