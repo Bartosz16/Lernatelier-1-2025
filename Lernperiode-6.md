@@ -106,9 +106,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Bank System machen 
+  - [X] Das der UUDI gespeichert wird 
+  - [X] Das es in einer SQLite Datenbank gespeichert wird 
+- [ ] Das es in Minecraft funktioniert
 
 
 #### Tagesreflexion
@@ -119,7 +120,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich an dem Banksystem gearbeitet. Ich bin fast fertig geworden. Jetzt muss ich nur noch dafür sorgen, dass es in Minecraft funktioniert.
 
 
 <!--
