@@ -137,9 +137,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [X] Wallet hinzugefügt
+- [X] Wallet umgeändert, sodass es mehr Sachen aufnehmen kann
+- [ ] Beim Zerstören der Blöcke soll auch etwas droppen
 
 
 #### Tagesreflexion
@@ -150,7 +150,9 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich ein Wallet hinzugefügt und musste noch etwas ändern, damit das Wallet grösser ist, also mehr Geld aufnehmen kann. Ich habe auch angefangen, für die Sachen, die noch kein Rezept haben, eines zu machen.
+
+Für das nächste Mal möchte ich, dass beim Abbauen der Sachen auch etwas droppt, und die Sachen, die Erton gemacht hat, zur Mod hinzufügen.
 
 
 <!--
