@@ -169,9 +169,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [X] Slotmaschine hinzufügen
+- [ ] Einen Command machen mit dem ich jemandem Geld schicken kann
+- [X] Die fehlenden Rezepte machen
 
 
 #### Tagesreflexion
@@ -181,8 +181,9 @@ und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
+Heute habe ich die Slotmaschine hinzugefügt. Es war nicht sehr schwierig, weil ich das gleiche Prinzip benutzt habe wie beim ATM. Es gab trotzdem ein paar Fehler, die ich nacheinander beheben musste.
 
-...Ihr Text...
+Ich habe auch die Rezepte für die Sachen gemacht, die noch keine hatten.
 
 
 <!--
