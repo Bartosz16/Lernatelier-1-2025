@@ -200,9 +200,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [X] c++ repetieren
+- [x] Character type lernen 
+- [X] ASCII code lernen
 
 
 #### Tagesreflexion
@@ -213,7 +213,9 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich mich wieder mit C++ beschäftigt und möchte es fertig machen. Das Java-Projekt mache ich eher in meiner Freizeit. Bei C++ musste ich mich daran erinnern, wie alles funktioniert und was ich bis jetzt gelernt habe. Das war nicht so schwierig.
+
+Das nächste Mal mache ich sicher an C++ weiter und möchte so viel wie möglich schaffen.
 
 
 <!--
